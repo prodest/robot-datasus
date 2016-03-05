@@ -2,7 +2,7 @@
 Script para automatização da extração de dados do Data Sus.
 
 # Utilidade
-Script para ler os dados da API do Datasus 
+Script para ler os dados da API do !{Datasus}(http://datasus.gov.br/) 
 
 ## Dados consultáveis:
 * Número de óbitos por dengue; Taxa de incidência por dengue
@@ -11,3 +11,5 @@ Script para ler os dados da API do Datasus
 * Distribuição dos casos de Aids segundo raça/cor
 * Distribuição dos óbitos por Aids segundo raça/cor
 * Numero de pacientes HIV em tratamento;(%) Casos HIV positivo com 1º CD4 inferior a 200 cel/mm³
+
+
