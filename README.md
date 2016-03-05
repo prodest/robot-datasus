@@ -4,8 +4,7 @@ Script para automatização da extração de dados do Data Sus.
 # Utilidade
 Script para ler os dados da API do Datasus 
 
-## A API permite a extração de diversos tipos de dados como:
-
+## Dados consultáveis:
 * Número de óbitos por dengue; Taxa de incidência por dengue
 * Percentual de casos notificados oportunamente
 * Taxa de incidência de Aids; Taxa de incidência de Aids em menores de 5 anos de idade; Taxa de mortalidade por Aids; 
