@@ -1,0 +1,8 @@
+{
+  "plugins": {
+    "node": {},
+    "lint": {},
+    "node-extension": {}
+  }
+}
+

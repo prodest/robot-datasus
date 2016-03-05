@@ -1,0 +1,16 @@
+{
+  "name": "sage-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^1.0.0",
+    "superagent": "^1.8.0-beta.2"
+  }
+}
