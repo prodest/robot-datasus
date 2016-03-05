@@ -1,5 +1,5 @@
 # robot-datasus
-Script para automatização da extração de dados do Data Sus.
+Script para automatização da extração de dados do [Datasus](https://www.datasus.gov.br).
 
 # Utilidade
 Script para ler os dados da API do [Datasus](https://www.datasus.gov.br)
