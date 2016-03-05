@@ -1,4 +1,3 @@
-Assunto,Fonte,Tema,Subtema,Indicadores,Granularidade,URL,
 Saúde,DATASUS - SAGE,Mobirdade,Dengue,Número de óbitos por dengue; Taxa de incidência por dengue,Ano / Município,http://sage.saude.gov.br/graficos/morbidade/dengueEpidemiologico.php?output=json&html&ibges=<codigo_ibge>&ufs=&co_agravo=2&rm=&tc=&re_giao=&cg=&qs=,
 Saúde,DATASUS - SAGE,Mobirdade,Dengue,Percentual de casos notificados oportunamente,Ano / Município,http://sage.saude.gov.br/graficos/morbidade/dengueOperacional.php?output=json&html&ibges=<codigo_ibge>&ufs=&co_agravo=2&rm=&tc=&re_giao=&cg=&qs=,
 Saúde,DATASUS - SAGE,Mobirdade,Aids,Taxa de incidência de Aids; Taxa de incidência de Aids em menores de 5 anos de idade; Taxa de mortalidade por Aids; ,Ano / Município,http://sage.saude.gov.br/graficos/morbidade/aidsEpidemiologico.php?output=json&html&ibges=<codigo_ibge>&ufs=&co_agravo=1&rm=&tc=&re_giao=&cg=&qs=,
