@@ -2,7 +2,8 @@
 Script para automatização da extração de dados do Data Sus.
 
 # Utilidade
-Script para ler os dados da API do !{Datasus}(http://datasus.gov.br/) 
+Script para ler os dados da API do Teset](https://www.datasus.gov.br)
+
 
 ## Dados consultáveis:
 * Número de óbitos por dengue; Taxa de incidência por dengue
