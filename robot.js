@@ -13,8 +13,6 @@ const cidadesFile = 'Fonte de dados - Municipios do ES.csv'
 const url = 'http://sage.saude.gov.br/graficos/morbidade/dengueEpidemiologico.php?output=json&html&ibges=<codigo_ibge>&ufs=&co_agravo=2&rm=&tc=&re_giao=&cg=&qs='
 // const urlComCodigo = url.replace('<codigo_ibge>', codDoMunicipioF)
 
-replace(url, '')
-
 processFile(cidadesFile, (data) => {
   const queriedUrl = replace(url, data[0])
   request.get(queriedUrl)
