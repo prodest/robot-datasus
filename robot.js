@@ -1,5 +1,5 @@
-var request = require('superagent')
-var processFile = require('./csvreader.js').processFile
+const request = require('superagent')
+const processFile = require('./csvreader.js').processFile
 
 function formatCodMunicipio (cod) {
   return cod.slice(0, -1)
