@@ -1,7 +1,7 @@
-var csv = require('fast-csv')
+const csv = require('fast-csv')
 
 exports.processFile = function (fileName, fn) {
-  var s = csv.fromPath(fileName)
+  const s = csv.fromPath(fileName)
   s.on('data', function (data) {
     fn(data)
   })
